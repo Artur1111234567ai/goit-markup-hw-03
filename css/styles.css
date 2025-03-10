@@ -267,6 +267,8 @@ h2,h3{
 }
 .footer{
     background-color: #2E2F42;
+    padding: 100px 0;
+
 }
 .footer-logo{
     font-family: "Raleway", sans-serif;
@@ -276,6 +278,8 @@ h2,h3{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .span-footer{
     color: #f4f4fd;
@@ -287,4 +291,5 @@ h2,h3{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#F4F4FD;
+    max-width: 264px;
 }
