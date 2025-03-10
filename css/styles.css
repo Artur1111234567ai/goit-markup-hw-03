@@ -3,6 +3,17 @@ body{
     color: #434455;
     background-color: #FFFFFF;
 }   
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
 .container{
     width: 1158px;
     margin: 0 auto;
@@ -118,6 +129,10 @@ header{
 h2,h3{
     color:#2E2F42;
 }
+.sec-one{
+    padding: 120px 0;
+}
+
 .sec-one-title{
     font-family: "Roboto", sans-serif;
     font-weight:500;
