@@ -134,7 +134,13 @@ h2,h3{
 .sec-one{
     padding: 120px 0;
 }
-
+.sec-one-list-ul{
+    display: flex;
+    gap: 24px;
+}
+.sec-one-list{
+    width: calc((100% - 72px) / 4);
+}
 .sec-one-title{
     font-family: "Roboto", sans-serif;
     font-weight:500;
@@ -142,7 +148,7 @@ h2,h3{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-
+    margin-bottom: 8px;
 
 }
 .sec-one-text{
