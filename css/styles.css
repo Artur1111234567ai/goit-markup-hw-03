@@ -68,6 +68,8 @@ header{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
+    padding: 24px 0;
+    display: block;
 }
 .menu-nav{
     display: flex;
@@ -80,6 +82,7 @@ header{
     letter-spacing: 0.02em;
     color: #2E2F42;
     padding: 24px 0;
+    display: block;
 
 }
 .nav-link:hover,
@@ -98,6 +101,8 @@ header{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    padding: 24px 0;
+    display: block;
 
 }
 .address-link:hover,
