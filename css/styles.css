@@ -123,6 +123,7 @@ header{
     text-align: center;
     letter-spacing: 0.02em;
     max-width: 496px;
+    margin: 0 auto;
 
 }
 .gl-title-button{
@@ -139,6 +140,7 @@ header{
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    margin: 48px auto 0;
 
 }
 .gl-title-button:hover,
